@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## CoCCoE test
 
-You can use the [editor on GitHub](https://github.com/bomeara/CoCCoE/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The [Bechdel Test](https://bechdeltest.com) is a simple test for movies to check for treatment of women. It is simply: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. It has to have at least two [named] women in it
+2. Who talk to each other
+3. About something besides a man
 
-### Markdown
+This appeal of this test is its simplicity. Of course, one can identify many ways this is an oversimplification, but as a shorthand for treatment of women, it can be very illuminating.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I propose a similar test for scientific societies: the **CoCCoE** [pronounced "cocoa"] test:
 
-```markdown
-Syntax highlighted code block
+1. Is there a Code of Conduct that can result in expulsion from the meeting for harassment of an attendee?
+2. Is there a Code of Ethics that can result in removal from the society for harassment of a member?
 
-# Header 1
-## Header 2
-### Header 3
+Like the Bechdel test, this also seems obvious -- can there really be a society that would let someone, say, convicted of sexual assault show up at a meeting? But when you look into it, there are several. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bomeara/CoCCoE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As with the Bechdel test, what one does with the test result is a matter of personal choice. Join a society to change this, boycott a society until fixed, ignore completely?
