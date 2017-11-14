@@ -1,4 +1,4 @@
-## CoCCoE test
+## CoCCoE Test
 
 The [Bechdel Test](https://bechdeltest.com) is a test for movies to check for treatment of women. It is:
 
