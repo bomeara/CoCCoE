@@ -10,9 +10,9 @@ This appeal of this test is its simplicity. Of course, one can identify many way
 
 I propose a similar test for scientific societies: the **CoCCoE** [pronounced "cocoa"] test:
 
-1. There is a Code of Conduct that can result in expulsion from the meeting for harassment of an attendee
-2. And a Code of Ethics that can result in removal from the society for harassment of a member
+1. There is a *Code of Conduct* that can result in expulsion from the meeting for well-documented harassment of an attendee
+2. There is a *Code of Ethics* that can result in removal from the society for well-documented assault of a member
 
-Like the Bechdel test, this also seems obvious -- can there really be a society that would let someone, say, convicted of sexual assault show up at a meeting? But when you look into it, there are many such organizations, despite the [well-documented problems of harassment in science](https://harassment.agu.org). 
+Like the Bechdel test, this also seems like a low bar, hard to imagine any society failing, yet many do. Despite the [well-documented problems of harassment in science](https://harassment.agu.org), this leaves societies scrambling. When an issue occurs, without a pre-existing policy, it can be hard to take appropriate action. Lack of a policy also sends a signal about society priorities. Good policies will have details about reporting procedures, how allegations are handled fairly, about ethics regarding plagiarism, reporting of conflicts of interest, etc. -- far more detail than is required to pass the CoCCoE test. This just highlights those that currently fail it.
 
 As with the Bechdel test, what one does with the test result is a matter of personal choice. Join a society to change this, boycott a society until fixed, ignore completely?
