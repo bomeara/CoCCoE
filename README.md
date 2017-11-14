@@ -19,10 +19,10 @@ As with the Bechdel test, what one does with the test result is a matter of pers
 
 ## List of societies
 
-Society, whether its codes (if present) pass or fail, and date checked. Link to the society website and to the codes if present (though not all codes will pass: an ethics policy that focuses on plagiarism but not protection of members, for example).
+Society, whether its codes (if present) pass or fail, and date checked. Link to the society website and to the codes if present (though not all codes will pass: an ethics policy that focuses on plagiarism but not protection of members, for example). This is a manual process and there may be errors: if you see a problem, please file an issue on github or email omeara.brian@gmail.com.
 
 | Society                                                      | Code of Conduct                                                           | Code of Ethics                                      | Passes CoCCoE | Date checked  |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------- | ------------- | ------------- |
 | [American Geophysical Union](https://sites.agu.org)          | [Passing](https://fallmeeting.agu.org/2016/agu-meetings-code-of-conduct/) | [Passing](https://ethics.agu.org)                   | Y             | Nov. 13, 2017 |
-| [Botanical Society of America](https://www.botany.org)       | [Not present](http://2017.botanyconference.org)                           | [Passing](https://botany.org/governance/ethics.php) | N             | Nov. 13, 2017 |
-| [European Society for Evolutionary Biology](http://eseb.org) | None                                                                      | None                                                | N             | Nov. 13, 2017              |
+| [Botanical Society of America](https://www.botany.org)       | [None](http://2017.botanyconference.org)                           | [Passing](https://botany.org/governance/ethics.php) | N             | Nov. 13, 2017 |
+| [European Society for Evolutionary Biology](http://eseb.org) | [None](http://eseb2019.fi)                                                                      | None                                                | N             | Nov. 13, 2017              |
