@@ -1,6 +1,6 @@
 ## CoCCoE test
 
-The [Bechdel Test](https://bechdeltest.com) is a simple test for movies to check for treatment of women. It is simply: 
+The [Bechdel Test](https://bechdeltest.com) is a simple test for movies to check for treatment of women. It is simply:
 
 1. It has to have at least two [named] women in it
 2. Who talk to each other
@@ -16,3 +16,9 @@ I propose a similar test for scientific societies: the **CoCCoE** [pronounced "c
 Like the Bechdel test, this also seems like a low bar, hard to imagine any society failing, yet many do. Despite the [well-documented problems of harassment in science](https://harassment.agu.org), this leaves societies scrambling. When an issue occurs, without a pre-existing policy, it can be hard to take appropriate action. Lack of a policy also sends a signal about society priorities. Good policies will have details about reporting procedures, how allegations are handled fairly, about ethics regarding plagiarism, reporting of conflicts of interest, etc. -- far more detail than is required to pass the CoCCoE test. This just highlights those that currently fail it.
 
 As with the Bechdel test, what one does with the test result is a matter of personal choice. Join a society to change this, boycott a society until fixed, ignore completely?
+
+List of societies
+
+| Society | Code of Conduct | Code of Ethics | Date checked |
+| ------- | --------------- | -------------- | ------------ |
+| [American Geophysical Union](https://sites.agu.org)        |    [Y](https://fallmeeting.agu.org/2016/agu-meetings-code-of-conduct/)             |      [Y](https://ethics.agu.org)          |   Nov. 13, 2017           |
