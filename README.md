@@ -11,7 +11,7 @@ This appeal of this test is its simplicity. Of course, one can identify shortcom
 ### I propose a similar test for scientific societies: the **CoCCoE** [pronounced "cocoa"] test:
 
 1. There is a *Code of Conduct* that can result in expulsion from the meeting for unambiguous harassment of an attendee
-2. There is a *Code of Ethics* that can result in removal from the society for unambiguous of a member
+2. There is a *Code of Ethics* that can result in removal from the society for unambiguous assault of a member
 
 -------------------
 
