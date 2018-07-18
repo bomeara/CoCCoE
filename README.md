@@ -27,4 +27,4 @@ As with the Bechdel test, once a result is found, the best action is up to indiv
 
 ## List of societies
 
-You can see an updated, crowd-sourced list of societies and the status of their codes of conduct and ethics at https://docs.google.com/spreadsheets/d/19sj3Q6pHeQB54HceirN06t3aXCfWIqdJmFzrvs2_zDY/edit#gid=0
+You can see an updated, crowd-sourced list of societies and the status of their codes of conduct and ethics at [this Google spreadsheet](https://docs.google.com/spreadsheets/d/19sj3Q6pHeQB54HceirN06t3aXCfWIqdJmFzrvs2_zDY/edit#gid=0), started by [Kermyt Anderson](https://twitter.com/KermytAnderson/status/1019676512822415361).
