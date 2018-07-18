@@ -27,18 +27,4 @@ As with the Bechdel test, once a result is found, the best action is up to indiv
 
 ## List of societies
 
-Society, whether its codes (if present) pass or fail, and date checked. Link to the society website and to the codes if present (though not all codes will pass: an ethics policy that focuses on plagiarism but not protection of members, for example). This is a manual process and there may be errors: if you see a problem, please file an issue on github or email omeara.brian@gmail.com.
-
-| Society                                                               | Code of Conduct                                                           | Code of Ethics                                      | Passes CoCCoE | Date checked  |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------- | ------------- | ------------- |
-| [American Academy of Arts and Sciences (AAAS)](http://www.aaas.org/) | [Y](http://meetings.aaas.org/) | N | N | Jan. 20, 2018 |
-| [American Geophysical Union](https://sites.agu.org)                   | [Y](https://fallmeeting.agu.org/2016/agu-meetings-code-of-conduct/) | [Y](https://ethics.agu.org)                   | Y             | Nov. 13, 2017 |
-| [American Ornithological Society](http://www.americanornithology.org) | [Y](https://amornithmeeting2018.org/code-of-conduct/) | [Y](http://www.americanornithology.org/sites/default/files/files/imce-img/AOS%20Code%20of%20Conduct%20August%202017.pdf) | Y | Jan. 20, 2018 |
-| [American Society of Naturalists](http://www.amnat.org/home.html)     | [Y](https://www.evolutionmeetings.org/conference-policies.html)           |                      N                               |         N      |     Jan. 20, 2018          |
-| [Botanical Society of America](https://www.botany.org)                | [Y](http://2018.botanyconference.org)                                  | [Y](https://botany.org/governance/ethics.php) | 8             | Jul. 18, 2018 |
-| [Ecological Society of America](https://www.esa.org/) | ? | ? | ? | Jan. 20, 2018 |
-| [Entomological Society of America](http://www.entsoc.org) | [Y](http://www.entsoc.org/conduct) | [N](http://www.entsoc.org/about_esa/esa-ethics-statement) | N | Jan. 20, 2018 |
-| [European Society for Evolutionary Biology](http://eseb.org)          | [N](http://eseb2019.fi)                                                | N                                                | N             | Nov. 13, 2017 |
-| [Society for Integrative and Comparative Biology](http://www.sicb.org) | [Y](http://sicb.org/resources/policies.php3#code) | [Almost](http://sicb.org/resources/policies.php3#code) (policy can include revocation of membership, but only for events at a meeting) | N | Jan. 20, 2018 |
-| [Society for the Study of Evolution](http://www.evolutionsociety.org) | [Y](https://www.evolutionmeetings.org/conference-policies.html)           |    N                                                 |   N            |    Jan. 20, 2018           |
-|[Society of Systematic Biologists](http://www.systbio.org)                                                              |  [Y](https://www.evolutionmeetings.org/conference-policies.html)                                         |         N                                            |     N          |     Jan. 20, 2018          |
+You can see an updated, crowd-sourced list of societies and the status of their codes of conduct and ethics at https://docs.google.com/spreadsheets/d/19sj3Q6pHeQB54HceirN06t3aXCfWIqdJmFzrvs2_zDY/edit#gid=0
